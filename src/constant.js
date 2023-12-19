@@ -1,0 +1,6 @@
+
+let ADD_FUND ='ADD_FUND'
+let WITHDRAW_FUND ='WITHDRAW_FUND'
+
+
+module.exports = {ADD_FUND, WITHDRAW_FUND}
